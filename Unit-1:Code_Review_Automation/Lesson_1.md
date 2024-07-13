@@ -28,4 +28,21 @@ A methodology that helps engineering teams build products by continuosly getting
 
 ### Pull Request Automation
 
-- Developers share code changes
+- Developers share code changes using **git** tools like GitHub, GitLab and BitBucket
+- A set of code changes in git tools is called a **"pull reques"** or **"merge request"**
+- If pull requests are approved, the code changes can go into the main codebase
+
+#### Git Definition
+
+Git is used for cloud-based code chage collaboration. See the full history of code changes, review developer changes, and store code in files called repositories.
+
+#### What can you automate?
+
+- Continuous Integration (CI)
+- Per change ephemeral environments
+- Automated security scanning
+- Notification to reviews
+
+#### Goal as DevOps Engineer
+
+Help developer change proposals get reviewed and merged within 24 hours of when they are made.
