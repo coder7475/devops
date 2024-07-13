@@ -60,3 +60,34 @@ Help developer change proposals get reviewed and merged within 24 hours of when 
 - Logging: text descriptions of what is happening during processing
 - Monitoring: take metrics and logs to convert them into health metrics
 - Alerting: If monitoring detects a problem, it notifies developer
+
+## Examples of DevOps Engineering
+
+**Scenario 1**: new startup with no users building a web application.
+
+_Recomanded free stack:_
+
+> GitHub  
+>  Netifly/Vercel  
+>  LayerCI
+
+**Scenario 2**: Team building an application for 10 enterprise customers.
+
+_Recomanded stack:_
+
+> GitHub  
+> Sentry  
+> PagerDuty  
+> CodeCov
+> Bitrise/CircleCI
+
+**Scenario 3**: Heavy traffic social media application like Reddit.
+
+_Recomanded stack:_
+
+> GitHub Enterprise  
+> Sentry  
+> ElasticSearch/Logstash/Kibana  
+> Pingdom  
+> Launch Darkly  
+> Terraform
