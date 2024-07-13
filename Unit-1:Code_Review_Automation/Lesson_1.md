@@ -53,3 +53,10 @@ Help developer change proposals get reviewed and merged within 24 hours of when 
 - Starting new versions of services without causing downtime
 - Rolling back to the prior version in case something does go wrong
 - Some Off the selves solutions: Spinnaker, harness
+
+### Application Performance Management
+
+- Metrics: numeric measurements of key numbers in production
+- Logging: text descriptions of what is happening during processing
+- Monitoring: take metrics and logs to convert them into health metrics
+- Alerting: If monitoring detects a problem, it notifies developer
