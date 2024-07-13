@@ -46,3 +46,10 @@ Git is used for cloud-based code chage collaboration. See the full history of co
 #### Goal as DevOps Engineer
 
 Help developer change proposals get reviewed and merged within 24 hours of when they are made.
+
+### Deployment Automation
+
+- Deploy a feature to a certain set of users as a final test before rolling it out publically
+- Starting new versions of services without causing downtime
+- Rolling back to the prior version in case something does go wrong
+- Some Off the selves solutions: Spinnaker, harness
