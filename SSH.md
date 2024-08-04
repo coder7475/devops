@@ -1,4 +1,16 @@
-# Adding a new SSH Key for GitHub account
+# SSH (Secure Shell)
+
+## Definition
+
+- A cryptographic network protocol used for secure communication
+
+- Provides secure channel over which user can manage remote server.
+
+- SSH uses public-key cryptography for authentication and encryption, ensuring data privacy and integrity.
+
+- Commonly used by system administrator and developers for remote server access and management.
+
+## Adding a new SSH Key for GitHub account
 
 1. Check for existing SSH keys. Run:
 
@@ -46,6 +58,8 @@ $ eval "$(ssh-agent -s)"
 Now, you can clone your repository using ssh. :)
 
 ### References
+
+- https://systemweakness.com/ssh-server-secure-configuration-in-linux-4cbbc43f0b46
 
 - https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 
