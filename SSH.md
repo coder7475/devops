@@ -32,6 +32,17 @@ To connect with the serve either use name of the ip address:
   ssh admin@192.168.2.13
 ```
 
+## How to copy between local and remote server
+
+To copy files between hosts on network. Use
+
+```bash
+  # Syntax
+  scp file user@server:/path/to/dest/
+  # Example
+  scp demo.txt admin@192.168.2.13:/tmp/
+```
+
 ## Adding a new SSH Key for GitHub account
 
 1. Check for existing SSH keys. Run:
