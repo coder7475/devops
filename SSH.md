@@ -10,6 +10,28 @@
 
 - Commonly used by system administrator and developers for remote server access and management.
 
+## Installation
+
+To install SSH Client run the following commands:
+
+```bash
+  sudo apt-get update
+  sudo apt-get upgrade
+  sudo apt-get install openssh-client
+```
+
+## How to connect to remote server
+
+Lets say you have server named `testServer` with IPv4 address of `192.168.2.13` and there is a user named `admin`.
+
+To connect with the serve either use name of the ip address:
+
+```bash
+  ssh admin@testServer
+  # OR
+  ssh admin@192.168.2.13
+```
+
 ## Adding a new SSH Key for GitHub account
 
 1. Check for existing SSH keys. Run:
