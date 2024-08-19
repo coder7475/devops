@@ -8,6 +8,10 @@
 
 - 90% of webapp is vulnerable to hacking & 68% are vulnerable to breach of sensitive data in 2020
 
+- As of 2023, the average cost of a data breach in the United States amounted to 9.48 million U.S. dollars, up from 9.44 million U.S. dollars in the previous year.
+
+- The global average cost per data breach was 4.45 million U.S. dollars in 2023.
+
 ### Terminologies
 
 **Vulnerability**: Security vulnerability is the code flow or a system misconfiguration that hacker can use to gain unauthorized access to a system or network.
