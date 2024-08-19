@@ -2,6 +2,8 @@
 
 - Refers to integrating security practices in DevOps Security model
 
+## Web App Vulnerabilities
+
 - Average cost of data breach in 2020 is $2.86 million, global cyber crime $6 trillion
 
 - 90% of webapp is vulnerable to hacking & 68% are vulnerable to breach of sensitive data in 2020
@@ -13,8 +15,6 @@
 **Exploit**: The method used to exploit a vulnerability. Usually a custom software or a sequence of commands. Exploit kits can be embedded in web pages to scan for vulnerabilities and inject malware or viruses when weakness is found.
 
 **Threat**: Actual or hypothetical event in which one or more exploits use a vulnerability to mount an attack
-
-## Web App Vulnerabilities
 
 ### Types of vulnerabilities
 
