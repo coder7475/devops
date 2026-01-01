@@ -1,4 +1,4 @@
-## DevSecOps
+# DevSecOps
 
 - Refers to integrating security practices in DevOps Security model
 
