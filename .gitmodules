@@ -7,3 +7,6 @@
 [submodule "Traefik"]
 	path = Traefik
 	url = https://github.com/coder7475/Traefik
+[submodule "learn-nginx"]
+	path = learn-nginx
+	url = https://github.com/coder7475/learn-nginx
