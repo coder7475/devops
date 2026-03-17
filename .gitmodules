@@ -10,3 +10,6 @@
 [submodule "learn-nginx"]
 	path = learn-nginx
 	url = https://github.com/coder7475/learn-nginx
+[submodule "Terraform-AWS"]
+	path = Terraform-AWS
+	url = git@github.com:coder7475/Terraform-AWS.git
