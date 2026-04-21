@@ -13,3 +13,9 @@
 [submodule "Terraform-AWS"]
 	path = Terraform-AWS
 	url = git@github.com:coder7475/Terraform-AWS.git
+[submodule "ansible"]
+	path = ansible
+	url = git@github.com:coder7475/ansible.git
+[submodule "SRE"]
+	path = SRE
+	url = git@github.com:coder7475/SRE.git
