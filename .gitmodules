@@ -6,7 +6,7 @@
 	url = git@github.com:coder7475/scripts.git
 [submodule "Traefik"]
 	path = Traefik
-	url = https://github.com/coder7475/Traefik
+	url = git@github.com:coder7475/Traefik.git
 [submodule "learn-nginx"]
 	path = learn-nginx
 	url = https://github.com/coder7475/learn-nginx
@@ -19,3 +19,9 @@
 [submodule "SRE"]
 	path = SRE
 	url = git@github.com:coder7475/SRE.git
+[submodule "Docker_Kubernetes_Practice"]
+	path = Docker_Kubernetes_Practice
+	url = git@github.com:coder7475/Docker_Kubernetes_Practice.git
+[submodule "configs"]
+	path = configs
+	url = git@github.com:coder7475/configs.git
