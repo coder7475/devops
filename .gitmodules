@@ -25,3 +25,6 @@
 [submodule "configs"]
 	path = configs
 	url = git@github.com:coder7475/configs.git
+[submodule "aws_localstack"]
+	path = aws_localstack
+	url = git@github.com:coder7475/aws_localstack.git
