@@ -28,3 +28,9 @@
 [submodule "aws_localstack"]
 	path = aws_localstack
 	url = git@github.com:coder7475/aws_localstack.git
+[submodule "cicd"]
+	path = cicd
+	url = git@github.com:coder7475/github-actions.git
+[submodule "yaml"]
+	path = yaml
+	url = git@github.com:coder7475/yaml.git
