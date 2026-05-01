@@ -34,3 +34,6 @@
 [submodule "yaml"]
 	path = yaml
 	url = git@github.com:coder7475/yaml.git
+[submodule "linux"]
+	path = linux
+	url = git@github.com:coder7475/linux.git
